@@ -1,0 +1,99 @@
+
+*{
+  font-family: 'Lato' !important;
+}
+
+body {
+  font-family: 'Lato';
+}
+.bg-black {
+  background-color: #1B2731;
+  color: white;
+}
+
+.buttons {
+  text-transform: none;
+  color: var(---ffffff-0);
+  text-align: left;
+  letter-spacing: 0.28px;
+  color: #FFFFFF;
+  opacity: 1;
+  font-family: 'Lato' !important;
+}
+
+.title {
+font-weight: bold;
+font-family: 'Lato' !important;
+color: var(---ffffff-0);
+text-align: left;
+font-size: 20px !important;
+letter-spacing: 0.4px !important;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.parenthesis {
+  font-size: 24px !important;
+  font-family: 'Lato' !important;
+  font-weight: bold;
+}
+
+.chipsFunction {
+  border: 1px solid #79D3FF !important; 
+  border-radius: 0px !important;
+  font-weight: bold;
+  font-family: 'Lato' !important;
+  color: #077998 !important;
+  width: 132px !important;
+}
+
+.chipsAritmetic {
+  border: 1px solid #E587C4 !important;
+  border-radius: 3px;
+  width: 272px !important;
+  font-weight: bold;
+  font-family: 'Lato' !important;
+  color: #4D1442 !important;
+}
+
+.logicalOperators {
+  border: 1px solid orange !important;
+  border-radius: 3px;
+  width: 70px !important;
+  font-weight: bold;
+  font-family: 'Lato' !important;
+  color: #A56400 !important;
+}
+
+.add {
+  letter-spacing: var(--unnamed-character-spacing-0-4);
+color: var(---2c3b48-800);
+text-align: left;
+font: normal normal bold 20px/24px 'Lato' !important;
+letter-spacing: 0.4px;
+color: #2C3B48;
+opacity: 1;
+}
+
+.chipsFormula {
+  border-radius: 3px !important;
+  opacity: 1;
+  height: 50px !important;
+}
+
+.chipsVariable {
+  border: 1px solid #D4DCE3 !important;
+  border-radius: 3px !important;
+  opacity: 1;
+  width: 200px;
+}
+
+.subheader {
+  font-weight: bold;
+  font-family: 'Lato';
+}
+
+.titleTest {
+  font-weight: bold;
+  font-family: 'Lato';
+}
